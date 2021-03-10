@@ -1,0 +1,84 @@
+-Prueba Unitaria:Ejectua el programa i comprueba si el resultado es correcto i en todo casi
+si hay errores
+
+-Prueba de Regresion: Prueba como el programa recive i envia informacion como por
+ejemplo en una base de datos
+
+-Preubas de Humo: Esta prueba intenta todo lo possible para forzar errores i asi que se
+puedan solucionar
+
+-Pruebas de Stress:Aqui se pone al programa en el maximo estres possible para saber
+hasta que punto puede aguantar
+
+-Pruebas d desempeño: Compreuba los tiempos de espera i de envio del programa para
+compreobar que tengan un tiempo adecuado
+
+-Pruebas de carga:Mide los tiempos de respues ta del programa i otros procesos que
+tardan un tiempo en cargar
+
+-Pruebas de volumen:Mide si el programa tiene un tamaño adecuado de bases de datos i
+calcula que el tiempo sea el correcto antes de añadir mas espacio
+
+-Pruebas de Recuperacion y Tolerancia a fallas:Comprueba cuanto tardad en recuperarse
+un programa despues de un error i cuanto puede aguantar un programa antes de fallar
+
+-Preubas de Seguridad y Contreol de acceso:Verifica que no haya fallos en la seguirdad i
+que no haya huecos por los cuales se puedan colar los usuarios con malas intenciones i
+pongan en riesco las estabilidad del programa
+
+-Preuba de GUI: Aqui se prueba la interfaz con tal de que sea fluida sin retrasos o
+problemas que puedan interferir al uso de un futuro usuario al cual le pueda dar ploblemas
+
+-Pruebas de Configuracion:Aqui se preuba que el programa se pueda adapatar al
+funcionar el diferenstes tipos de hardaware o software i que funcione de forma correcta
+para el usuario
+
+-Preuba de Estilo:Aqui se comprueba que el programa tenga un tilo que no le resulte
+extaño al usuario i gustoso a la vista
+
+-Preuba de Aceptacion:Aqui se comprueba si los usuarios les puede interesar el proframa
+o si el programa tiene fallos importantes i se tendria que descartar 
+
+-Prueba de Instalcio:Aqui se compreuba que el programa se instale i se actualize de forma
+correcta en diferentes equipos cliente
+
+-Preuba de Documentacio y Procediemento:Aqui se comprueba si la documentacion echa
+por el usuario esta escrita de forma apropiada i puede ser utilizada
+
+-Pruebas de Funcionales:Aqui se compreuba que el flujo de datos se el correcto i no haya
+problemas por el medio
+
+-Pruebas de Usabilidad :Detemina que nivel de dificultad tiene el programa para que un
+usuario lo aprenda i sepa usarlo lo antes possible si muchos errores ya que lo idea serai
+un programa facil de entender que con las indicaciones minimas el usuario ya supiera con
+exactitud como utilizar este si que necesite una gran ayuda por parte del programa o
+instructor para dominarlo
+
+-Pruebas de campo:La idea es probar el programa en un ambiente lo mas real possible
+como con un usuario de prueba i un ordenador con lo minimo para hacerlo funcionar que
+que apartir de esto se pueda sacar cosas a mejorar de este como hacer el programa mas
+como o informacion que por el contrario no se abria obtenido de hacerlo con un
+programador el cual ha echo el programa i ya sabe perfectamente como funciona este
+
+-Pruebas Alfa:Aqui se prueba el programa usualmente por los desarroladores que saben
+como funciona el programa en un entorno controlado para evitar que el programa explote
+lo menos possible ya que se quiere intetar expandirlo lo maximo posible
+
+-Pruebas beta:Este ultimo paso se suele dejar a los usuarios para que prueben el
+software i notifio
+
+-Pruebas de Sistema:Aqui se pruebas que las variables i toda la informacion funcionen
+correctamente
+-Pruebas de Multiples Sitios: Esta prueba comprueba como se mueven los datos sobre
+diferentes plataformas o medios
+
+-Prueba de Compatibilidad y Conversion:Esta prueba es inidacar si la conversion a fallado
+en caso de que no cumpla unos minimos
+
+-Pruebas de Integridad de Datos y Base de Datos:Aqui se comprueba que la aplicacion
+acepta la base de datos i no la rechaza o corrompe los datos de la base de datos i no
+haya errores
+
+-Preuba del ciclo del Negacio:Aqui es cuando el programa es auto restinge para que se
+actualize de forma progresiva al modelo de negocios de la empresa si que este se
+adelante o se retrase o los usuarios descubran algo antes de tiempo
