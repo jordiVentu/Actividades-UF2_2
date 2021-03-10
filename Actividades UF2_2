@@ -1,3 +1,16 @@
+Proves unitaries:
+Son probes de baix nivell ex:
+Proba continua del programa mentres es desembolupa(per programadors)
+Detectan errors dels algoritmes
+es divideixen en dos caixa negra i blanca
+
+Com identificar la major cantitat de nodes
+Si asumim que hi han un total de 7 del primer al ultim seria lo mes eficient ya que volem comprobarlos tots
+Cami 1-2-3-4-5-6-7
+pero tambe necesitem saber si existeixen altres posibles camins
+Cami 1-2-3-4-6-2-7
+cami 1-2-7
+
 Caja negra:
 Son las preubas que de hacen a partir de la informacion que recive el programa
 Caja blanca:
