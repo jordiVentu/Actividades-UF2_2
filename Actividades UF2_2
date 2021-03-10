@@ -1,3 +1,9 @@
+Caja negra:
+Son las preubas que de hacen a partir de la informacion que recive el programa
+Caja blanca:
+Se coje el codigo como base i apartrir de aqui se examinan las syntaxis  o funciones interna 
+que para estar seguro de su funcionamiento se necesita el codigo
+
 -Prueba Unitaria:Ejectua el programa i comprueba si el resultado es correcto i en todo casi
 si hay errores
 
